@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%80%E5%A4%A9%E5%88%B0%E6%99%9A%E6%91%B8%E9%B1%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%80%E5%A4%A9%E5%88%B0%E6%99%9A%E6%91%B8%E9%B1%BC%E7%9A%84%E4%BA%BA)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/storm6kkk/storm6kkk/output/github-contribution-grid-snake-dark.svg">
