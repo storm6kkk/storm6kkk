@@ -1,13 +1,17 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%80%E5%A4%A9%E5%88%B0%E6%99%9A%E6%91%B8%E9%B1%BC)](https://git.io/typing-svg)
-<!--
-**storm6kkk/storm6kkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/storm6kkk/storm6kkk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/storm6kkk/storm6kkk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/storm6kkk/storm6kkk/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<!--
+**storm6kkk/storm6kkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
