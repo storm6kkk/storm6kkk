@@ -9,7 +9,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/storm6kkk/storm6kkk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/storm6kkk/storm6kkk/output/github-contribution-grid-snake.svg">
 </picture>
-[![GitHub Streak](https://streak-stats.demolab.com?user=storm6kkk&theme=dark&border_radius=5&locale=zh_Hans&card_width=510)](https://git.io/streak-stats)
+
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=storm6kkk&theme=dark&border_radius=5&locale=zh_Hans&card_width=510" alt="GitHub Streak" /></a>
 
