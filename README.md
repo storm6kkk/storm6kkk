@@ -12,7 +12,7 @@
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=storm6kkk&theme=dark&border_radius=5&locale=zh_Hans&card_width=510" alt="GitHub Streak" /></a>
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /></div>
 <!--
 **storm6kkk/storm6kkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
