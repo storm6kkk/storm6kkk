@@ -9,7 +9,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/storm6kkk/storm6kkk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/storm6kkk/storm6kkk/output/github-contribution-grid-snake.svg">
 </picture>
-![GitHub Streak](https://streak-stats.demolab.com/?user=storm6kkk)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=storm6kkk)](https://git.io/streak-stats)
 
 <!--
 **storm6kkk/storm6kkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
